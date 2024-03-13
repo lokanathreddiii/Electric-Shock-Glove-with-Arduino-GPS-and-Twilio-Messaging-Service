@@ -1,5 +1,4 @@
 # electric-Shock-Glove-with-Arduino-GPS-and-Twilio-Messaging-Service
-# Electric Shock Glove with Arduino, GPS, and Twilio Messaging Service ⚡🧤🛰️📱
 
 This project is a combination of hardware and software, aiming to create an electric shock glove equipped with Arduino, GPS technology, and Twilio messaging service. This glove can be used for various applications, including personal safety, security, and emergency communication.
 
